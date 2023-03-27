@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: rgba(128, 128, 128, 0.01);
+}
+
+
+.postTitle{
+  font-size: 24px;
+}
+
+.postUser {
+  font-size: 18px;
+}
+
+.commentName {
+  font-size: 18px;
+}
+
+.post {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 15px;
+  background-color: rgba(133, 133, 133, 0.10);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+.comment {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
